@@ -3,7 +3,7 @@ package Cushman.Zachary.Chapter6.Java.Project;
 import java.awt.EventQueue;
 
 import javax.swing.JButton;
-import javax.swing.JFrame;
+import javax.swing.JFrame; //test stuff
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import java.awt.event.MouseAdapter;
